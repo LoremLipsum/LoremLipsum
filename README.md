@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LoremLipsum&show_icons=true&theme=dracula&hide=stars,issues)
 
 <!-- <p>
   <img alt="css" src="https://img.shields.io/badge/-CSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
