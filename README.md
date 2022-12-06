@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Lipsum&show_icons=true&theme=dracula&hide=stars,issues)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p>
   <img alt="css" src="https://img.shields.io/badge/-CSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
